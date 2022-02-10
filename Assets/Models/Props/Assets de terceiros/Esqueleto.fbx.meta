@@ -3,7 +3,17 @@ guid: 81d4cfefae23e464a90606a65fe6746c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organs
+    second: {fileID: 2100000, guid: 76c4f3c86e9681d408f4a3c3c30d4b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skellington
+    second: {fileID: 2100000, guid: 8ff69d0b0920869479ac0d96dc3d5fbd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

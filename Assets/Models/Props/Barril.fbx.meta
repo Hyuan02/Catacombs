@@ -3,7 +3,12 @@ guid: d189a1a7b58b0c04a8df47b9e5098692
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 3d033f26a0838404fb048fc1f2013a54, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -34,7 +39,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.6
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -85,7 +90,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.016
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
